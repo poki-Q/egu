@@ -1,0 +1,1 @@
+html,body{width:100vw}.container .tabbar{height:52px;width:100vw;border-top:1px solid #eee;position:fixed;bottom:0;left:0;font-size:13px}.container .tabbar .link{color:#666}.container .tabbar .tabbar-content{display:flex;justify-content:space-around;align-items:center}.container .tabbar .current{color:#ff8800}
